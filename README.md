@@ -5,3 +5,5 @@ This repository will contain all of my web scraping effort from the first code t
 # List of Projects
 
 - BrainyQuotes scraper ( My very first effort)
+- Trip Advisor
+- IMDB Horror movies list (including ratings, actors name and synopsis)
