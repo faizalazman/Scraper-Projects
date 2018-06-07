@@ -53,7 +53,7 @@ ROBOTSTXT_OBEY = False
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
-    'yify.middlewares.YifyDownloaderMiddleware': 10000,
+    'yify.middlewares.YifyDownloaderMiddleware': None,
 }
 
 # Enable or disable extensions
